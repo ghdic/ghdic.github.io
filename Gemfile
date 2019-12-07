@@ -1,2 +1,3 @@
 source "https://rubygems.org"
-gemspec
+
+gem "https://github.com/ghdic/ghdic", group: :jekyll_plugins
