@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "PS"
-    url: /problem_solving/
   - title: "카테고리별 보기"
     url: /categories/
   - title: "태그별 보기"
@@ -17,8 +15,6 @@ main:
 docs:
   - title: 바로가기
     children:
-      - title: "PS"
-        url: /problem_solving/
       - title: "카테고리별 보기"
         url: /categories/
       - title: "태그별 보기"
