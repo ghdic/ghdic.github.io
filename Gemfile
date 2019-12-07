@@ -1,3 +1,3 @@
 source "https://rubygems.org"
 
-gem "https://github.com/ghdic/ghdic", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
