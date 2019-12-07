@@ -294,7 +294,7 @@ defaults:
 
   # _pages
   - scope:
-      path: ""
+      path: "_post"
       type: pages
     values:
       layout: single
