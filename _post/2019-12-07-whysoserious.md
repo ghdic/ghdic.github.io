@@ -7,7 +7,7 @@ toc: true
 toc_label: "My Table of Contents"
 toc_icon: "cog" # 내 컨텐츠에 대한 목차를 오른쪽에 띄워줌
 
-last_modified_at: 2019-12-07T15:46:43-04:00 # 마지막 업데이트 날짜를 보여줌
+last_modified_at: 2019-12-06T15:46:43-04:00 # 마지막 업데이트 날짜를 보여줌
 
 excerpt: "This post should [...]"
 header:
