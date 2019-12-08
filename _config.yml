@@ -266,8 +266,8 @@ jekyll-archives:
     category: archive-taxonomy
     tag: archive-taxonomy
   permalinks:
-    category: /categories/:name/
-    tag: /tags/:name/
+    category: /categories/#:name/
+    tag: /tags/#:name/
 
 
 # HTML Compression
@@ -299,11 +299,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-  # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      sidebar:
-        nav: "docs"

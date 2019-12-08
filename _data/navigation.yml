@@ -10,16 +10,3 @@ main:
     url: /about/
   # - title: "Sitemap"
   #   url: /sitemap/
-
-
-docs:
-  - title: 바로가기
-    children:
-      - title: "카테고리별 보기"
-        url: /categories/
-      - title: "태그별 보기"
-        url: /tags/
-      - title: "연도별 보기"
-        url: /year-archive/
-      - title: "About"
-        url: /about/
