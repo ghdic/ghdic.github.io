@@ -5,7 +5,3 @@ gem "minimal-mistakes-jekyll"
 
 group :jekyll_plugins do
 end+
-
-group :jekyll_plugins do
-    gem 'jekyll-commonmark-ghpages'
-  end
