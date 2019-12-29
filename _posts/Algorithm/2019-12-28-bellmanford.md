@@ -12,7 +12,7 @@ categories: [Algorithm,]
 # 밸만포드 알고리즘이란?
 다익스트라에서 음의 가중치를 두고 계산할 수 없던 점을 개선한 알고리즘, 대신해 다익스트라보다는 좀 더 느리다.
 
-![1.png](../../assets/images/algorithm/bellmanford/1.png)
+![1.png](../../assets/images/Algorithm/bellmanford/1.png)
 
 플로이드 워셜처럼 `D(s,v) = D(s,u) + w(u,v)` 방식으로 갱신해준다.
 
@@ -26,15 +26,15 @@ categories: [Algorithm,]
 
 시작 정점을 0으로 두고 나머진 INF로 둔다.
 
-![2.png](../../assets/images/algorithm/bellmanford/2.png)
+![2.png](../../assets/images/Algorithm/bellmanford/2.png)
 
 A->B, A->C, B->C로 가서 갱신된 경우
 
-![3.png](../../assets/images/algorithm/bellmanford/3.png)
+![3.png](../../assets/images/Algorithm/bellmanford/3.png)
 
 B->E, B->D, E->D 간선에 대한 갱신
 
-![4.png](../../assets/images/algorithm/bellmanford/4.png)
+![4.png](../../assets/images/Algorithm/bellmanford/4.png)
 
 
 

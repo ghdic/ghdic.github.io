@@ -12,6 +12,7 @@ categories: [Algorithm,]
 # ~란?
 
 # 예시
+![1.png](../../assets/images/Algorithm/)
 
 # 설명
 
