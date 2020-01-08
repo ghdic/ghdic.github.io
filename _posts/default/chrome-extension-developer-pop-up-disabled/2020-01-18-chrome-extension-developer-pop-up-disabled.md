@@ -8,7 +8,7 @@ tags: [chrome-extension,]
 categories: [default,]
 ---
 
-![1.png](\1.png)
+![1.png](1.png)
 
 간단한 크롬 확장앱을 만들어서 쓸려고 보니깐 크롬을 킬때마다 이 창이 뜬다..
 
