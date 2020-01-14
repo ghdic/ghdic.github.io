@@ -17,5 +17,8 @@ categories: [Algorithm,]
 # 설명
 
 # 소스코드
+{% highlight c++ %}
+
+{% endhighlight %}
 
 # 참고자료

@@ -33,6 +33,6 @@ categories: [PS,]
 
 
 # 소스
-```
+{% highlight c++ %}
 
-```
+{% endhighlight %}
