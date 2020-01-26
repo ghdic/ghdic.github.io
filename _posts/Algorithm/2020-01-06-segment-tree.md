@@ -445,6 +445,9 @@ int main() {
 }
 {% endhighlight %}
 
+추가적으로 반복문으로 빠르고 쉽게 짜는 방식의 세그가 있다.. 알아두면 나름 쓸만할것 같다. 나는 안쓰것지만
+
+> <https://codeforces.com/blog/entry/18051>
 
 # 참고자료
 * <https://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range/>
